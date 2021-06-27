@@ -66,7 +66,7 @@ COVID19 Awareness
  </details>
  
  ## Hackathon Result
- We secured rank #1 :)
+ #### We secured rank #1 😄
  ![DevJam 4.0 Final Standings.png]()
 
 
