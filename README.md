@@ -64,9 +64,16 @@ COVID19 Awareness
   <summary>Game ppt and presentation video</summary>
   <a href="https://drive.google.com/drive/folders/1iNGTm3nG27Uxrb7rqtemqy9ZqMfwprlI?usp=sharing" >here</a>
  </details>
- 
+
+### How to Install Game
+1. Download the .zip file.
+2. Unzip the .zip file.
+3. Run **Devjam Winning Project.exe**
+4. Enjoy 😺
+
+
  ## Hackathon Result
  #### We secured rank #1 😄
- ![DevJam 4.0 Final Standings.png]()
+ ![DevJam 4.0 Final Standings.png](https://github.com/sanskaromar/Dr.Vincent/blob/main/DevJam%20Final%20Standing.png)
 
 
