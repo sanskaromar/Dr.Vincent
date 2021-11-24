@@ -1,7 +1,7 @@
 # Dr.Vincent
 This project was made for a hackathon <abbr title="A Hackathon by MNNIT Coding Club">DevJam 2021</abbr> in may 2021.
 <br><br>
-Dr. Vincent is a game around a character Vincent, who is a famous doctor in 21st century when suddenly the coronavirus pandemic hits the world. Every suffers and almost every nation is under complete lockdown due to virus outbreak. One day Dr. Vincent recieves a letter and as soon as he opens it he is teleported to a mysterious land. Now, He must find out what happened to him and why he is here...
+Dr. Vincent is a game based around a character Vincent, who is a famous doctor in 21st century when suddenly the coronavirus pandemic hits the world. Every suffers and almost every nation is under complete lockdown due to virus outbreak. One day Dr. Vincent recieves a letter and as soon as he opens it he is teleported to a mysterious land. Now, He must find out what happened to him and why he is here...
 
 ### Game Story and Features
 <details>
