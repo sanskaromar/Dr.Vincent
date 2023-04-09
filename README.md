@@ -78,6 +78,6 @@ COVID19 Awareness
 
 ### Few scenes from game
 
+![Screenshot (1177) (1)](https://user-images.githubusercontent.com/77530596/230767300-16389209-1f1b-4f49-a5f1-2ed123477eeb.png)
 ![Screenshot (1175) (1)](https://user-images.githubusercontent.com/77530596/230767295-ee919082-b9fe-46b2-8c9f-1ae38d8af0eb.png)
 ![Screenshot (1178) (1)](https://user-images.githubusercontent.com/77530596/230767299-58c6162b-1b4d-4b7f-abc9-be51c6b0a73e.png)
-![Screenshot (1177) (1)](https://user-images.githubusercontent.com/77530596/230767300-16389209-1f1b-4f49-a5f1-2ed123477eeb.png)
