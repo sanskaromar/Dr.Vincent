@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f66e2e0977cc049419d765ab56d4c043
+  - enabled: 1
+    path: Assets/Scenes/Fire.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Ice.unity
+    guid: 35b87a618d170e6ef852acb96331252d
+  - enabled: 1
+    path: Assets/Scenes/Dessert.unity
+    guid: de5341e523e1ea949a228b110b5bde49
+  - enabled: 1
+    path: Assets/Scenes/FinalBoss.unity
+    guid: 3488a7395ee011443909c46772f2feac
+  m_configObjects: {}

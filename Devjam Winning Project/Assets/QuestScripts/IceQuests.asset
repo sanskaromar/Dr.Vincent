@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfdfb6939a11299499e4a586c2f4c6a4, type: 3}
+  m_Name: IceQuests
+  m_EditorClassIdentifier: 
+  quests:
+  - Id: OC
+    questInfo: Collect 5 oxygen cylinders
+    helpText: Oxygen cylinders collected
+    img: {fileID: 0}
+    isCompleted: 0
+    count: 0
+    target: 5
+    reward: Full Mana
+    rewardCount: 50
+  - Id: PH
+    questInfo: Go to Hospital to give the cylinders
+    helpText: Go Fast
+    img: {fileID: 0}
+    isCompleted: 0
+    count: 0
+    target: 1
+    reward: +25 Mana
+    rewardCount: 25
+  - Id: KO
+    questInfo: Kill 9 Corona Viruses
+    helpText: Corona viruses killed
+    img: {fileID: 0}
+    isCompleted: 0
+    count: 0
+    target: 9
+    reward: +30 Mana
+    rewardCount: 30
+  - Id: J20
+    questInfo: Jump 20 times
+    helpText: Times jumped
+    img: {fileID: 0}
+    isCompleted: 0
+    count: 0
+    target: 20
+    reward: +25 Mana
+    rewardCount: 25
+  - Id: SS5
+    questInfo: Super sanitize 15 times
+    helpText: Times sanitized
+    img: {fileID: 0}
+    isCompleted: 0
+    count: 0
+    target: 15
+    reward: +Full Mana
+    rewardCount: 50
+  - Id: FB
+    questInfo: Find the Boss and defeat it
+    helpText: Fight boss
+    img: {fileID: 0}
+    isCompleted: 0
+    count: 0
+    target: 1
+    reward: Level Finished
+    rewardCount: 100
+  - Id: TP
+    questInfo: Go to hospital to save other worlds
+    helpText: Go fast
+    img: {fileID: 0}
+    isCompleted: 0
+    count: 1
+    target: 1
+    reward: Teleporting...
+    rewardCount: 100
